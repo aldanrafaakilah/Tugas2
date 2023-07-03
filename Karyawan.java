@@ -1,3 +1,5 @@
+//JAKSA SETIA ALAM (227064516051)
+//ALDAN RAFA AKILAH (227064516043)
 package tugassebelumuas;
 
 // Membuat superclass Karyawan
